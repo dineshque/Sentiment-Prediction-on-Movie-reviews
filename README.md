@@ -13,7 +13,7 @@ The "Sentiment Prediction on Movie Reviews" competition, hosted by IITM on Kaggl
   Link :- https://colab.research.google.com/drive/1qJ8tc3uhDsnyo8uq1uos6toz_75Iks7J?usp=sharing
 
 ### Objective
-- **Primary Goal**: Accurately classify the sentiment of review texts as positive, negative, or neutral.
+- **Primary Goal**: Accurately classify the sentiment of review texts as positive,or negative.
 
 ### Dataset
 - **Content**: The dataset included movie titles, descriptions, genres, durations, directors, actors, user ratings, review texts, and reviewer names.
